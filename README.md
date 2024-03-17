@@ -6,7 +6,7 @@ POST запрос по URI https://blog.kata.academy/api/users
 
 **Request**:
 
-headers: Content-Type:application/json 
+**headers**: Content-Type:application/json 
 
 **body**: 
 
@@ -39,7 +39,7 @@ POST запрос по URI https://blog.kata.academy/api/users/login
 
 **Request**:
 
-headers: Content-Type:application/json 
+**headers**: Content-Type:application/json 
 
 **body**: 
 ```JSON
@@ -70,7 +70,7 @@ GET запрос по URI https://blog.kata.academy/api/user
 
 **Request**
 
-headers: 
+**headers**: 
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR51ODc0ODE4LCJpYXQiOjE3MTA2OTA4MTh9.eU8-IEkqqbrFjF8vKkHmtslx72FxkKX5xMvKEbZ6osc
 
 **Response**
